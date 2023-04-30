@@ -1,18 +1,45 @@
 const questions = [
 	{
-		question: "Quel est le langage de programmation le plus populaire ?",
-		answer: "JavaScript",
-		difficulty: "Facile"
+		question: "Quel est le plus grand lac du monde en termes de volume d'eau ?",
+		answer: "Le plus grand lac du monde en termes de volume d'eau est la mer Caspienne."
 	},
 	{
-		question: "Quel est le langage de balisage utilisé pour structurer le contenu d'un site web ?",
-		answer: "HTML",
-		difficulty: "Moyen"
+		question: "Qui a découvert la structure en double hélice de l'ADN ?",
+		answer: "La structure en double hélice de l'ADN a été découverte par James Watson et Francis Crick."
 	},
 	{
-		question: "Quel est le nom du système de gestion de base de données le plus populaire ?",
-		answer: "MySQL",
-		difficulty: "Difficile"
+		question: "Quel pays est le plus grand producteur de café au monde ?",
+		answer: "Le Brésil est le plus grand producteur de café au monde."
+	},
+	
+	{
+		question: "Quel est le plus petit pays d'Afrique par sa superficie ?",
+		answer: "Le plus petit pays d'Afrique par sa superficie est Seychelles."
+	},
+	{
+		question: "Quel est le plus haut sommet d'Afrique ?",
+		answer: "Le plus haut sommet d'Afrique est le Kilimandjaro en Tanzanie."
+	},
+	{
+		question: "Quelle est la ville la plus peuplée de Chine ?",
+		answer: "La ville la plus peuplée de Chine est Shanghai."
+	},
+	{
+		question: "Quel est le plus grand océan du monde en termes de superficie ?",
+		answer: "Le plus grand océan du monde en termes de superficie est l'océan Pacifique."
+	},
+	{
+		question: "Quelle est la capitale de l'Islande ?",
+		answer: "La capitale de l'Islande est Reykjavik."
+	},
+	
+	{
+		question: "Quel est le seul État américain qui commence par la lettre p ?",
+		answer: "Le seul État américain qui commence par la lettre p est le Pennsylvania."
+	},
+	{
+		question: "Dans quelle ville italienne se trouve le Colisée ?",
+		answer: "Le Colisée est situé dans la ville de Rome en Italie."
 	}
 ];
 
